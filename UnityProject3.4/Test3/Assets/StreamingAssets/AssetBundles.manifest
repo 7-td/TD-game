@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1492044171
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs/assistprefabs
+      Dependencies: {}
+    Info_1:
+      Name: prefabs/uiprefabs
+      Dependencies: {}
+    Info_2:
+      Name: icons/enemyicons
+      Dependencies: {}
+    Info_3:
+      Name: prefabs/enemyprefabs
+      Dependencies: {}
+    Info_4:
+      Name: prefabs/towerprefabs
+      Dependencies: {}
+    Info_5:
+      Name: icons/towericons
+      Dependencies: {}
+    Info_6:
+      Name: icons/techtreeicons
+      Dependencies: {}

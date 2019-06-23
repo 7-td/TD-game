@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 90226219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05e72f5ea1aa581f013ef75581826c31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Images/\u56FE\u6807/NzjfTechItemB.png"
+- "Assets/Images/\u56FE\u6807/SwxzTechItemD.png"
+- "Assets/Images/\u56FE\u6807/GyglTechItemB.png"
+- "Assets/Images/\u56FE\u6807/ZyydTechItemB.png"
+- "Assets/Images/\u56FE\u6807/GroundItemB.png"
+- "Assets/Images/\u56FE\u6807/QqhdTechItemB.png"
+- "Assets/Images/\u56FE\u6807/FireItemB.png"
+- "Assets/Images/\u56FE\u6807/ZljcTechItemB.png"
+- "Assets/Images/\u56FE\u6807/YtgyTechItemD.png"
+- "Assets/Images/\u56FE\u6807/YtgyTechItemB.png"
+- "Assets/Images/\u56FE\u6807/JrjsTechItemD.png"
+- "Assets/Images/\u56FE\u6807/WaterItemD.png"
+- "Assets/Images/\u56FE\u6807/ZyydTechItemD.png"
+- "Assets/Images/\u56FE\u6807/NzjfTechItemD.png"
+- "Assets/Images/\u56FE\u6807/GyglTechItemD.png"
+- "Assets/Images/\u56FE\u6807/JrjsTechItemB.png"
+- "Assets/Images/\u56FE\u6807/SwxzTechItemB.png"
+- "Assets/Images/\u56FE\u6807/MetalItemD.png"
+- "Assets/Images/\u56FE\u6807/GrassItemD.png"
+- "Assets/Images/\u56FE\u6807/NgbfTechItemB.png"
+- "Assets/Images/\u56FE\u6807/FireItemD.png"
+- "Assets/Images/\u56FE\u6807/ZnysTechItemB.png"
+- "Assets/Images/\u56FE\u6807/ZljcTechItemD.png"
+- "Assets/Images/\u56FE\u6807/GroundItemD.png"
+- "Assets/Images/\u56FE\u6807/GrassItemB.png"
+- "Assets/Images/\u56FE\u6807/NgbfTechItemD.png"
+- "Assets/Images/\u56FE\u6807/WaterItemB.png"
+- "Assets/Images/\u56FE\u6807/QqhdTechItemD.png"
+- "Assets/Images/\u56FE\u6807/MetalItemB.png"
+- "Assets/Images/\u56FE\u6807/ZnysTechItemD.png"
+Dependencies: []

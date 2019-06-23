@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tempMageGrass
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: f134829e9eb3ac142882a93c1f406149,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: healthBar
+    value: 
+    objectReference: {fileID: 4615870408011857684, guid: 10cb86ea4fe4bac42b753e706f05af0f,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: healthBarTransform
+    value: 
+    objectReference: {fileID: 4615870408018767726, guid: 10cb86ea4fe4bac42b753e706f05af0f,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: healthBarDefineTransform
+    value: 
+    objectReference: {fileID: 2645120942003159813, guid: 10cb86ea4fe4bac42b753e706f05af0f,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: enemyName
+    value: Mage
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyTotalHealth
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyMoveSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyAttr
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyAttackPower
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyAttackSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyAttackScope
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.size
+    value: 41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[2].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[4].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[4].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[5].x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[5].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[6].x
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[6].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[7].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[7].y
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[8].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[8].y
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[9].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[9].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[10].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[10].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[11].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[11].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[12].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[12].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[13].x
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[13].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[14].x
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[14].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[15].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[15].y
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[16].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[16].y
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[17].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[17].y
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[18].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[18].y
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[19].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[19].y
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[20].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[20].y
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[21].x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[21].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[22].x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[22].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[23].x
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[23].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[24].x
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[24].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[25].x
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[25].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[26].x
+    value: -4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[26].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[27].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[27].y
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[28].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[28].y
+    value: -4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[29].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[29].y
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[30].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[30].y
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[31].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[31].y
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[32].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[32].y
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[33].x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[33].y
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[34].x
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[34].y
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[35].x
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[35].y
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[36].x
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[36].y
+    value: -2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[37].x
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[37].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[38].x
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[38].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[39].x
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[39].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[40].x
+    value: -3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyDetectScope.Array.data[40].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: enemyPrice
+    value: 25
+    objectReference: {fileID: 0}

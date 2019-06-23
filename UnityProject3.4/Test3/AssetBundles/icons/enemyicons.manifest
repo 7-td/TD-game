@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1407061025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b211ec632ecdf50402d7647c543e62b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/EnemyIconsSprites/SoldierGrassIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorSoldierFireIcon.png
+- Assets/Images/EnemyIconsSprites/MageWaterIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorMageWaterIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorMageMetalIcon.png
+- Assets/Images/EnemyIconsSprites/MageGroundIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorMageFireIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorMageGrassIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorMageGroundIcon.png
+- Assets/Images/EnemyIconsSprites/SoldierWaterIcon.png
+- Assets/Images/EnemyIconsSprites/SoldierFireIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorSoldierWaterIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorSoldierGrassIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorSoldierMetalIcon.png
+- Assets/Images/EnemyIconsSprites/SoldierGroundIcon.png
+- Assets/Images/EnemyIconsSprites/SoldierMetalIcon.png
+- Assets/Images/EnemyIconsSprites/MageGrassIcon.png
+- Assets/Images/EnemyIconsSprites/SuperiorSoldierGroundIcon.png
+- Assets/Images/EnemyIconsSprites/MageMetalIcon.png
+- Assets/Images/EnemyIconsSprites/MageFireIcon.png
+Dependencies: []

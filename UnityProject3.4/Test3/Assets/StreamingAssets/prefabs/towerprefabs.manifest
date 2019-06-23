@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1597291083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b98e08d190a72cefb0168cb754cd1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ee260190c07451e4b2c12388cd9f678
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1310e65397a274d44a776b51d6937f61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f3318744c434a94282ec0fe417b8c87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b85e63be68c87ee4c80246f35f301bbd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/TowerPrefabs/ArrowTowerWaterPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/GasMethodTowerMetalPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/GasMethodTowerFirePrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ArrowTowerFirePrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ElementFortTowerWaterPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/TowerPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ElementFortTowerMetalPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ElementFortTowerGroundPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ArrowTowerMetalPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ArrowTowerGrassPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ElementFortTowerFirePrefab.prefab
+- Assets/Prefabs/TowerPrefabs/GasMethodTowerGroundPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/GasMethodTowerGrassPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/GasMethodTowerWaterPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ArrowTowerGroundPrefab.prefab
+- Assets/Prefabs/TowerPrefabs/ElementFortTowerGrassPrefab.prefab
+Dependencies: []
